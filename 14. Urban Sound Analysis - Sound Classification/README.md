@@ -1,7 +1,5 @@
 # Urban Sound Analysis - Sound Classification
 
-**Complete Video Tutorial:** https://youtu.be/eA7G9IjN8Xk
-
 # Dataset Information
 
 This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: 

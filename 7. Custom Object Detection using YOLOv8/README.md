@@ -1,7 +1,5 @@
 # Custom Object Detection Tutorial using YOLOv8
 
-**Complete Video Tutorial:** https://youtu.be/XJ0s3gvCZmg
-
 **Dataset Download Link:** https://www.kaggle.com/datasets/sshikamaru/car-object-detection/data
 
 ## Project Information
