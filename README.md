@@ -1,4 +1,6 @@
 # Deep Learning Projects
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/832073a6-553c-48c5-8afa-45b77aaedae8" />
+
 This repository contains projects in deep learning with jupyter notebook files.
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
