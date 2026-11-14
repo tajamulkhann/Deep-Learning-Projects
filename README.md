@@ -1,5 +1,6 @@
 # Deep Learning Projects
-<img width="1280" height="720" alt="Default" src="https://github.com/user-attachments/assets/b9bf8452-3762-4690-879a-934b61b0c2f6" />
+
+<img width="1280" height="720" alt="Default (2)" src="https://github.com/user-attachments/assets/45368a23-bfa6-4275-8d31-8c65252e0751" />
 
 ## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
 
